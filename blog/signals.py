@@ -11,3 +11,4 @@ def create_post_log(sender,instance,created,**kwargs):
         print("createed log for the saved post")
         print("---------------------------")
        
+
