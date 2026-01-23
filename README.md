@@ -1,5 +1,5 @@
 # Blog App
-- Bakend
+- Backend
 - Django Rest Framework
 - Serializers
 - Signals
